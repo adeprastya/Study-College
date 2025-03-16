@@ -1,6 +1,6 @@
-# Repository Project Study
+# College Study
 
-This repository contains the project study I completed as part of various subjects in college. It showcases my progress and learning experiences in different topics and technologies.
+This repository contains the project I completed as part of various subjects in college. It showcases my progress and learning experiences in different topics and technologies.
 
 ## Contents
 
